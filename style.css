@@ -7,3 +7,10 @@ footer{
     text-decoration: underline;
     padding: 10px;
 }
+body{
+    background-color: peru;
+}
+#rdss{
+    background-color: rgba(0, 0, 0, 0.1);
+    color: springgreen;
+}
